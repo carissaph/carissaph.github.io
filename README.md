@@ -28,4 +28,4 @@
 A machine learning-driven validation strategy was developed to assess model accuracy in recommending the best crop of the year. This data-driven approach leveraged satellite remote sensing features and soil content characteristics across geographical variations. By strategically selecting spatial samples and evaluating them through spatial correlation metrics, the method effectively captured regional dependencies. The proposed approach significantly improved cross-validation performance, reducing the Mean Squared Error (MSE) from 0.65 to 0.10.
 
 
-![Enhancing Model Validation Study](assets/img/Model Validation.png)
+![Enhancing Model Validation Study](assets/img/Model_Validation.png)
