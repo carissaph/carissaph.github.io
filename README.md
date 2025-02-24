@@ -35,3 +35,9 @@ A machine learning-driven validation strategy was developed to assess model accu
 Leveraging **Geographic Information Systems (ArcGIS)** and **Python**, this study developed geometric layers to visualize energy consumption patterns, facilitating targeted sampling area selection. A clustering analysis of 10,000+ energy consumption records and 25 socioeconomic factors uncovered distinct customer energy consumption profiles. Additionally, decision tree models trained on 1,000+ consumer questionnaires identified key behavioral patterns and validated assumptions about energy usage. The insights from this analysis empowered stakeholders to design data-driven energy-saving plans tailored to specific consumer segments.
 
 ![Methodology](/assets/img/Energy_Consumption.png)
+
+### Health Risk Assessment of Agricultural Environment
+
+This research aimed to quantify contamination levels in water, soil and rice within agricultural environments near industrial areas. A three-year quantitative sampling plan was designed and executed, collecting over 10,000 in-situ samples and real-time IoT sensor data. Monte Carlo simulations were applied to both real-time and historical datasets, enabling health risk assessments based on hazard ratios of eight heavy metal contaminants. Leading a multidisciplinary team across nine institutions, I ensured a robust experimental design and data-driven methodologies, producing reliable results. Additionally, I managed a $550K R&D project, achieving a 30% profit margin while delivering ESG-focused consultations to stakeholders, optimizing environmental and business operations.
+
+![Methodology](/assets/img/assets/img/Health_Risk_Assessment.png)
