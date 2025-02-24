@@ -40,4 +40,4 @@ Leveraging **Geographic Information Systems (ArcGIS)** and **Python**, this stud
 
 This research aimed to quantify contamination levels in water, soil and rice within agricultural environments near industrial areas. A three-year quantitative sampling plan was designed and executed, collecting over 10,000 in-situ samples and real-time IoT sensor data. Monte Carlo simulations were applied to both real-time and historical datasets, enabling health risk assessments based on hazard ratios of eight heavy metal contaminants. Leading a multidisciplinary team across nine institutions, I ensured a robust experimental design and data-driven methodologies, producing reliable results. Additionally, I managed a $550K R&D project, achieving a 30% profit margin while delivering ESG-focused consultations to stakeholders, optimizing environmental and business operations.
 
-![Methodology](/assets/img/assets/img/Health_Risk_Assessment.png)
+![Methodology](/assets/img/Health_Risk_Assessment.png)
