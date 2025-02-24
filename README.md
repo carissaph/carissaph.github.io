@@ -32,7 +32,7 @@ A machine learning-driven validation strategy was developed using **Python** and
 
 ### Data-Driven Estimation of Energy Consumption Behaviors and Customer Segmentation for Energy Savings
 
-Leveraging **Geographic Information Systems (ArcGIS)** and **Python**, this study developed geometric layers to visualize energy consumption patterns, facilitating targeted sampling area selection. A clustering analysis of 10,000+ energy consumption records and 25 socioeconomic factors uncovered distinct customer energy consumption profiles. Additionally, decision tree models trained on 1,000+ consumer questionnaires identified key behavioral patterns and validated assumptions about energy usage. The insights from this analysis empowered stakeholders to design data-driven energy-saving plans tailored to specific consumer segments.
+Leveraging **Geographic Information Systems (ArcGIS)** and **R**, this study developed geometric layers to visualize energy consumption patterns, facilitating targeted sampling area selection. A clustering analysis of 10,000+ energy consumption records and 25 socioeconomic factors uncovered distinct customer energy consumption profiles. Additionally, decision tree models trained on 1,000+ consumer questionnaires identified key behavioral patterns and validated assumptions about energy usage. The insights from this analysis empowered stakeholders to design data-driven energy-saving plans tailored to specific consumer segments.
 
 ![Methodology](/assets/img/Energy_Consumption.png)
 
