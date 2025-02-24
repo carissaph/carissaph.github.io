@@ -26,11 +26,11 @@
 ## Projects
 ### Enhancing Model Validation with a Machine Learning Approach for Optimal Crop Recommendation
 
-A machine learning-driven validation strategy was developed to assess model accuracy in recommending the best crop of the year. This data-driven approach leveraged satellite remote sensing features and soil content characteristics across geographical variations. By strategically selecting spatial samples and evaluating them through spatial correlation metrics, the method effectively captured regional dependencies. The proposed approach significantly improved cross-validation performance, reducing the Mean Squared Error (MSE) from 0.65 to 0.10.
+A machine learning-driven validation strategy was developed using **Python** and an **AWS**-based data pipeline to assess model accuracy in recommending the best crop of the year. This data-driven approach leveraged satellite remote sensing features and soil content characteristics across geographical variations. By strategically selecting spatial samples and evaluating them through spatial correlation metrics, the method effectively captured regional dependencies. The proposed approach, implemented within a scalable AWS workflow, significantly improved cross-validation performance, reducing the Mean Squared Error (MSE) from 0.65 to 0.10.
 
 ![Enhancing Model Validation Study](assets/img/Model_Validation.png)
 
-### EData-Driven Estimation of Energy Consumption Behaviors and Customer Segmentation for Energy Savings
+### Data-Driven Estimation of Energy Consumption Behaviors and Customer Segmentation for Energy Savings
 
 Leveraging **Geographic Information Systems (ArcGIS)** and **Python**, this study developed geometric layers to visualize energy consumption patterns, facilitating targeted sampling area selection. A clustering analysis of 10,000+ energy consumption records and 25 socioeconomic factors uncovered distinct customer energy consumption profiles. Additionally, decision tree models trained on 1,000+ consumer questionnaires identified key behavioral patterns and validated assumptions about energy usage. The insights from this analysis empowered stakeholders to design data-driven energy-saving plans tailored to specific consumer segments.
 
