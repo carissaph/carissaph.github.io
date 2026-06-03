@@ -35,6 +35,8 @@ Results-driven Analytics Engineer with 8+ years of experience in geospatial anal
 Network Performance Optimization & Strategic Site Colocation (UScellular, 2024–2025)
 Developed advanced geospatial and graph analytics solutions to optimize a nationwide telecom network. Created a **concentric circle approximation method** with geohashes to evaluate coverage capacity for **4,000+** sites. Utilized Voronoi diagrams and population data to identify colocation opportunities with T-Mobile, successfully matching **25% of UScellular sites**. Built a graph database to analyze backhaul inefficiencies across **7,500+ towers**, and designed a Tableau anomaly detection dashboard that reduced cross-functional troubleshooting time by **30%**.
 
+![Methdology](assets/img/Network_Performance.png)
+
 
 ### Enhancing Model Validation with a Machine Learning Approach for Optimal Crop Recommendation
 
