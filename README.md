@@ -31,8 +31,9 @@ Results-driven Analytics Engineer with 8+ years of experience in geospatial anal
 - Ran Monte Carlo simulations on 10,000+ environmental samples to assess health risks based on hazard ratios of 8 heavy metal contaminants.
 
 ## Projects
-### Network Intelligence Platform: Backhaul Analysis & Handset Anomaly Detection at UScellular
-To address growing network complexity after T-Mobile's acquisition of UScellular, two interconnected analytics solutions were developed using **Python, SQL**, and **Tableau**. A **graph database** was constructed from API data to map backhaul inefficiencies across 7,500+ towers, enabling engineering teams to identify and prioritize customer-impacting issues. In parallel, a **Tableau anomaly detection dashboard** was built to surface handset irregularities in real time, allowing two cross-functional teams to cut troubleshooting time by 30%. Together, these tools improved network visibility and accelerated operational response across the UScellular footprint.
+### Network Performance Optimization & Strategic Site Colocation (UScellular, 2024–2025)
+Network Performance Optimization & Strategic Site Colocation (UScellular, 2024–2025)
+Developed advanced geospatial and graph analytics solutions to optimize a nationwide telecom network. Created a **concentric circle approximation method** with geohashes to evaluate coverage capacity for **4,000+** sites. Utilized Voronoi diagrams and population data to identify colocation opportunities with T-Mobile, successfully matching **25% of UScellular sites**. Built a graph database to analyze backhaul inefficiencies across **7,500+ towers**, and designed a Tableau anomaly detection dashboard that reduced cross-functional troubleshooting time by **30%**.
 
 
 ### Enhancing Model Validation with a Machine Learning Approach for Optimal Crop Recommendation
