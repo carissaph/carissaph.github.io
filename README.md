@@ -1,7 +1,8 @@
 # Analytics Engineer
+Results-driven Analytics Engineer with 8+ years of experience in geospatial analysis, machine learning anomaly detection, statistical modeling, and data visualization. Proven track record of transforming complex datasets into actionable insights that optimize operations, reduce costs, and drive strategic decision-making.
 
-#### Technical Skills: Python, SQL, R, AWS, Tableau
-#### Languages: English(fluent), Chinese Mandarin (Native), Taiwanese (Native)
+#### Technical Skills: Python, SQL, R, Spark, PostgreSQL, OracleDB, AWS, Tableau, Talend, QGIS
+#### Languages: English (Fluent), Mandarin Chinese (Native), Taiwanese (Native)
 
 
 ## Education
@@ -10,23 +11,33 @@
 - B.S., Agronomy, Minor in English Literature | National Chung Hsing University (_June 2010_)
 
 ## Work Experience
-**Analytics Engineer @ UScellular (_January 2022 - Present_)**
-- Develop a approximation method to appoarch tower coverage capacity and evaluate the colocation opportunities which detect 60% coverage capacity and match 25% of UScellular sites for colocation opportunities.
-- Perform statistical analyses (T-tests and binomial tests) on a dataset of 4.5 million customers, evaluating 3G sunset trials and recommending network performance improvements within the USellular footprint.
+**Analytics Engineer @ UScellular (acquired by T-Mobile, January 2023 – August 2025)**
+- Built a graph database in Python using API data to map backhaul inefficiencies across 7,500+ towers, enabling prioritized resolution of customer-impacting network issues.
+- Developed a concentric circle approximation method to quantify geohashes around cell towers, delivering coverage capacity insights for 4,000+ UScellular sites.
+- Performed densification analysis combining population data and Voronoi diagrams to identify colocation opportunities with T-Mobile sites, matching 25% of UScellular sites for strategic network expansion.
+- Conducted T-tests and binomial tests on 4.5 million customer records to evaluate 3G sunset trials and recommend targeted network performance improvements.
+- Spearheaded development of a Tableau handset anomaly detection dashboard used by two cross-functional teams, reducing troubleshooting time by 30%.
+- Migrated 50+ Linux shell scripts to Talend, streamlining ETL processes and achieving 25% automation script backup on a centralized platform.
+- Extracted and analyzed data from OracleDB, PostgreSQL, and Spark using SQL and Python to deliver monthly executive performance reports.
 
 **Data Scientist Intern @ Bayer (_May 2022 - August 2022_)**
-- Developed machine learning models (Decision Tree and Random Forest) using Python, TensorFlow, and geospatial libraries and statistical models (Regression and Linear model) on remote sensing and environmental factors data.
-- Collaborated with two R&D teams to demonstrate the practical application of models and data pipelines, deploying them to stakeholders that optimized supply chain logistics, enabling stakeholders to make data-driven decisions.
+- Developed machine learning models (Decision Tree, Random Forest) using Python, TensorFlow, and geospatial libraries on remote sensing and environmental data, reducing RMSE from 0.65 to 0.10.
+- Collaborated with two R&D teams to deploy ML models and data pipelines that optimized supply chain logistics and enabled data-driven stakeholder decisions.
 
 **Project Manager @ Sinotech Environmental Technology & Taiwan Water Resources Bureau(_Febuary 2017 - July 2021_)**
-- Oversaw a $550K R&D project, achieving a 30% profit margin, while providing data-driven consultations to 9 institutions on environmental, social, and governance (ESG) systems and business operations.
-- Conducted clustering analysis on 10,000+ energy consumption records and 25 socioeconomic factors, revealing distinct categories of energy consumption behavior
-- Designed decision trees using data from 1,000+ consumer questionnaires to identify energy consumption behaviors and validate behavioral assumptions.
+- Oversaw a $550K R&D project with a 30% profit margin, delivering ESG data-driven consultations to 9 institutions.
+- Conducted clustering analysis on 10,000+ energy consumption records and 25 socioeconomic factors to uncover distinct behavioral categories.
+- Designed decision trees from 1,000+ consumer questionnaires to identify energy consumption behaviors and validate assumptions.
+- Ran Monte Carlo simulations on 10,000+ environmental samples to assess health risks based on hazard ratios of 8 heavy metal contaminants.
 
 ## Projects
+### Network Intelligence Platform: Backhaul Analysis & Handset Anomaly Detection at UScellular
+To address growing network complexity after T-Mobile's acquisition of UScellular, two interconnected analytics solutions were developed using **Python, SQL**, and **Tableau**. A **graph database** was constructed from API data to map backhaul inefficiencies across 7,500+ towers, enabling engineering teams to identify and prioritize customer-impacting issues. In parallel, a **Tableau anomaly detection dashboard** was built to surface handset irregularities in real time, allowing two cross-functional teams to cut troubleshooting time by 30%. Together, these tools improved network visibility and accelerated operational response across the UScellular footprint.
+
+
 ### Enhancing Model Validation with a Machine Learning Approach for Optimal Crop Recommendation
 
-A machine learning-driven validation strategy was developed using **Python** and an **AWS**-based data pipeline to assess model accuracy in recommending the best crop of the year. This data-driven approach leveraged satellite remote sensing features and soil content characteristics across geographical variations. By strategically selecting spatial samples and evaluating them through spatial correlation metrics, the method effectively captured regional dependencies. The proposed approach, implemented within a scalable AWS workflow, significantly improved cross-validation performance, reducing the Mean Squared Error (MSE) from 0.65 to 0.10.
+A machine learning-driven validation strategy was developed using **Python** and an **AWS**-based data pipeline to assess model accuracy in recommending the optimal crop of the year. This approach leveraged satellite remote sensing features and soil characteristics across diverse geographies. By strategically selecting spatial samples and evaluating them through spatial correlation metrics, the method effectively captured regional dependencies — reducing Mean Squared Error (MSE) from 0.65 to 0.10 within a scalable AWS workflow.
 
 ![Enhancing Model Validation Study](assets/img/Model_Validation.png)
 
@@ -35,7 +46,7 @@ A machine learning-driven validation strategy was developed using **Python** and
 
 ### Data-Driven Estimation of Energy Consumption Behaviors and Customer Segmentation for Energy Savings
 
-Leveraging **Geographic Information Systems (ArcGIS)** and **R**, this study developed geometric layers to visualize energy consumption patterns, facilitating targeted sampling area selection. A clustering analysis of 10,000+ energy consumption records and 25 socioeconomic factors uncovered distinct customer energy consumption profiles. Additionally, decision tree models trained on 1,000+ consumer questionnaires identified key behavioral patterns and validated assumptions about energy usage. The insights from this analysis empowered stakeholders to design data-driven energy-saving plans tailored to specific consumer segments.
+Using **ArcGIS** and **R**, geometric layers were developed to visualize energy consumption patterns and guide targeted sampling area selection. Clustering analysis on 10,000+ records and 25 socioeconomic factors revealed distinct consumer profiles, while decision tree models trained on 1,000+ questionnaires identified key behavioral drivers. These insights empowered stakeholders to design tailored, data-driven energy-saving strategies for specific consumer segments.
 
 ![Methodology](/assets/img/Energy_Consumption.png)
 
@@ -44,6 +55,6 @@ Leveraging **Geographic Information Systems (ArcGIS)** and **R**, this study dev
 
 ### Health Risk Assessment of Agricultural Environment
 
-This research aimed to quantify contamination levels in water, soil and rice within agricultural environments near industrial areas. A three-year quantitative sampling plan was designed and executed, collecting over 10,000 in-situ samples and real-time IoT sensor data. Monte Carlo simulations were applied to both real-time and historical datasets, enabling health risk assessments based on hazard ratios of eight heavy metal contaminants. Leading a multidisciplinary team across nine institutions, I ensured a robust experimental design and data-driven methodologies, producing reliable results. Additionally, I managed a $550K R&D project, achieving a 30% profit margin while delivering ESG-focused consultations to stakeholders, optimizing environmental and business operations.
+This research quantified contamination levels in water, soil, and rice within agricultural areas near industrial zones. A three-year sampling plan collected over 10,000 in-situ samples and real-time IoT sensor data. **Monte Carlo simulations** were applied to both real-time and historical datasets to assess health risks based on hazard ratios of eight heavy metal contaminants. Leading a multidisciplinary team across nine institutions, the project delivered rigorous, data-driven results — including a $550K R&D initiative with a 30% profit margin and ESG-focused consultations for environmental and business stakeholders.
 
 ![Methodology](/assets/img/Health_Risk_Assessment.png)
