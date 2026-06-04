@@ -11,7 +11,7 @@ Results-driven Analytics Engineer with 8+ years of experience in geospatial anal
 - B.S., Agronomy, Minor in English Literature | National Chung Hsing University (_June 2010_)
 
 ## Work Experience
-### Analytics Engineer @ UScellular (acquired by T-Mobile, January 2023 – August 2025)
+### Analytics Engineer @ UScellular (_acquired by T-Mobile, January 2023 – August 2025_)
 - Built a graph database in Python using API data to map backhaul inefficiencies across 7,500+ towers, enabling prioritized resolution of customer-impacting network issues.
 - Developed a concentric circle approximation method to quantify geohashes around cell towers, delivering coverage capacity insights for 4,000+ UScellular sites.
 - Performed densification analysis combining population data and Voronoi diagrams to identify colocation opportunities with T-Mobile sites, matching 25% of UScellular sites for strategic network expansion.
