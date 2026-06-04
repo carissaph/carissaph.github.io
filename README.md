@@ -31,7 +31,7 @@ Results-driven Analytics Engineer with 8+ years of experience in geospatial anal
 - Ran Monte Carlo simulations on 10,000+ environmental samples to assess health risks based on hazard ratios of 8 heavy metal contaminants.
 
 ## Projects
-### Network Performance Optimization & Strategic Site Colocation (UScellular, 2024–2025)
+### Network Performance Optimization & Strategic Site Colocation (_UScellular, 2024–2025_)
 Network Performance Optimization & Strategic Site Colocation (UScellular, 2024–2025)
 Developed advanced geospatial and graph analytics solutions to optimize a nationwide telecom network. Created a **concentric circle approximation method** with geohashes to evaluate coverage capacity for **4,000+** sites. Utilized Voronoi diagrams and population data to identify colocation opportunities with T-Mobile, successfully matching **25% of UScellular sites**. Built a graph database to analyze backhaul inefficiencies across **7,500+ towers**, and designed a Tableau anomaly detection dashboard that reduced cross-functional troubleshooting time by **30%**.
 
