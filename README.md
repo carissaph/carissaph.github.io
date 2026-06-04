@@ -11,7 +11,7 @@ Results-driven Analytics Engineer with 8+ years of experience in geospatial anal
 - B.S., Agronomy, Minor in English Literature | National Chung Hsing University (_June 2010_)
 
 ## Work Experience
-**Analytics Engineer @ UScellular (acquired by T-Mobile, January 2023 – August 2025)**
+### Analytics Engineer @ UScellular (acquired by T-Mobile, January 2023 – August 2025)
 - Built a graph database in Python using API data to map backhaul inefficiencies across 7,500+ towers, enabling prioritized resolution of customer-impacting network issues.
 - Developed a concentric circle approximation method to quantify geohashes around cell towers, delivering coverage capacity insights for 4,000+ UScellular sites.
 - Performed densification analysis combining population data and Voronoi diagrams to identify colocation opportunities with T-Mobile sites, matching 25% of UScellular sites for strategic network expansion.
@@ -20,11 +20,11 @@ Results-driven Analytics Engineer with 8+ years of experience in geospatial anal
 - Migrated 50+ Linux shell scripts to Talend, streamlining ETL processes and achieving 25% automation script backup on a centralized platform.
 - Extracted and analyzed data from OracleDB, PostgreSQL, and Spark using SQL and Python to deliver monthly executive performance reports.
 
-**Data Scientist Intern @ Bayer (_May 2022 - August 2022_)**
+### Data Scientist Intern @ Bayer (_May 2022 - August 2022_)
 - Developed machine learning models (Decision Tree, Random Forest) using Python, TensorFlow, and geospatial libraries on remote sensing and environmental data, reducing RMSE from 0.65 to 0.10.
 - Collaborated with two R&D teams to deploy ML models and data pipelines that optimized supply chain logistics and enabled data-driven stakeholder decisions.
 
-**Project Manager @ Sinotech Environmental Technology & Taiwan Water Resources Bureau(_Febuary 2017 - July 2021_)**
+### Project Manager @ Sinotech Environmental Technology & Taiwan Water Resources Bureau(_Febuary 2017 - July 2021_)
 - Oversaw a $550K R&D project with a 30% profit margin, delivering ESG data-driven consultations to 9 institutions.
 - Conducted clustering analysis on 10,000+ energy consumption records and 25 socioeconomic factors to uncover distinct behavioral categories.
 - Designed decision trees from 1,000+ consumer questionnaires to identify energy consumption behaviors and validate assumptions.
