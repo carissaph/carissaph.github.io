@@ -40,7 +40,7 @@ Developed advanced geospatial and graph analytics solutions to optimize a nation
 - Built a **graph database** in Python to analyze backhaul inefficiencies across 7,500+ towers, enabling prioritized resolution of customer-impacting issues.
 - Spearheaded a **Tableau anomaly detection dashboard** used by two cross-functional teams, reducing troubleshooting time by **30%**.
 
-**Business Impact:** Delivered quantifiable operational efficiency gains and data-driven insights for executive decision-making on network strategy. These geospatial modeling and large-scale analytics skills are highly transferable to utility grid optimization and reliability metrics (e.g., SAIDI/SAIFI).
+**Business Impact:** Delivered quantifiable operational efficiency gains and data-driven insights for executive decision-making on network strategy. These geospatial modeling and large-scale analytics skills are highly transferable to utility grid optimization and reliability metrics.
 ![Methdology](assets/img/Network_Performance.png)
 
 
