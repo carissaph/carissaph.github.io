@@ -52,7 +52,7 @@ Led a multidisciplinary $550K R&D project to quantify environmental and health r
 - Applied **Monte Carlo simulations** on real-time and historical datasets to perform probabilistic health risk assessments based on hazard ratios of **8 heavy metals**.
 - Collaborated with National Taiwan University Institute of Public Health and 9 institutions to validate models and deliver actionable insights.
 
-**Business Impact:** Achieved **30% profit margin** on the project while enabling data-driven ESG consultations and policy recommendations. This experience demonstrates strong expertise in **simulation modeling, uncertainty quantification, and risk analysis** — directly relevant to ComEd’s portfolio valuation and risk management needs.
+**Business Impact:** Achieved **30% profit margin** on the project while enabling data-driven ESG consultations and policy recommendations. This experience demonstrates strong expertise in **simulation modeling, uncertainty quantification, and risk analysis**.
 ![Methodology](/assets/img/Health_Risk_Assessment.png)
 
 ### Enhancing Model Validation with a Machine Learning Approach for Optimal Crop Recommendation (Bayer, 2022)
