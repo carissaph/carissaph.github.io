@@ -43,6 +43,8 @@ Developed advanced geospatial and graph analytics solutions to optimize a nation
 **Business Impact:** Delivered quantifiable operational efficiency gains and data-driven insights for executive decision-making on network strategy. These geospatial modeling and large-scale analytics skills are highly transferable to utility grid optimization and reliability metrics.
 ![Methdology](assets/img/Network_Performance.png)
 
+
+
 ### Enhancing Model Validation with a Machine Learning Approach for Optimal Crop Recommendation (Bayer, 2022)
 Developed and validated machine learning models to optimize fertilizer recommendations using satellite imagery and remote sensing data.
 
@@ -52,6 +54,7 @@ Developed and validated machine learning models to optimize fertilizer recommend
 
 **Business Impact:** Enabled R&D teams to make more precise, data-driven supply chain decisions, reducing waste and optimizing resource allocation in agricultural applications. The end-to-end ML pipeline and validation expertise align with developing robust predictive models for utility forecasting and pricing.
 ![Enhancing Model Validation Study](assets/img/Model_Validation.png)
+
 
 
 ### Data-Driven Estimation of Energy Consumption Behaviors and Customer Segmentation (Taiwan Water Resources Bureau, 2019–2021)
