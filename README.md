@@ -1,5 +1,5 @@
 # Analytics Engineer
-Results-driven Analytics Engineer with 8+ years of experience in Monte Carlo simulation, geospatial analysis, machine learning anomaly detection, statistical modeling, data visualization and large-scale statistical analysis for risk and operational optimization. Proven track record of transforming complex datasets into actionable insights that optimize operations, reduce costs, and drive strategic decision-making.
+Results-driven Analytics Engineer with 8+ years of experience in Monte Carlo simulation, geospatial analysis, machine learning anomaly detection, statistical modeling, data visualization and large-scale statistical analysis for risk and operational optimization. 
 
 #### Technical Skills: Python, SQL, R, Spark, PostgreSQL, OracleDB, AWS, Tableau, Talend, QGIS
 #### Languages: English (Fluent), Mandarin Chinese (Native), Taiwanese (Native)
