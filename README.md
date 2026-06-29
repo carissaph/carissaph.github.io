@@ -43,18 +43,6 @@ Developed advanced geospatial and graph analytics solutions to optimize a nation
 **Business Impact:** Delivered quantifiable operational efficiency gains and data-driven insights for executive decision-making on network strategy. These geospatial modeling and large-scale analytics skills are highly transferable to utility grid optimization and reliability metrics.
 ![Methdology](assets/img/Network_Performance.png)
 
-
-
-### Health Risk Assessment of Agricultural Environment (Sinotech, 2017–2019)
-Led a multidisciplinary $550K R&D project to quantify environmental and health risks in agricultural areas near industrial zones, providing ESG-driven recommendations to 9 institutions.
-
-- Designed a three-year quantitative sampling plan and experimental framework, collecting over **10,000** in-situ samples and real-time IoT sensor data.
-- Applied **Monte Carlo simulations** on real-time and historical datasets to perform probabilistic health risk assessments based on hazard ratios of **8 heavy metals**.
-- Collaborated with National Taiwan University Institute of Public Health and 9 institutions to validate models and deliver actionable insights.
-
-**Business Impact:** Achieved **30% profit margin** on the project while enabling data-driven ESG consultations and policy recommendations. This experience demonstrates strong expertise in **simulation modeling, uncertainty quantification, and risk analysis**.
-![Methodology](/assets/img/Health_Risk_Assessment.png)
-
 ### Enhancing Model Validation with a Machine Learning Approach for Optimal Crop Recommendation (Bayer, 2022)
 Developed and validated machine learning models to optimize fertilizer recommendations using satellite imagery and remote sensing data.
 
@@ -75,3 +63,17 @@ Conducted advanced clustering and decision tree analysis to support energy-savin
 
 **Business Impact:** Revealed distinct consumer profiles, enabling stakeholders to design targeted energy-saving strategies and improve demand-side management — skills transferable to utility customer analytics and reliability planning.
 ![Methodology](/assets/img/Energy_Consumption.png)
+
+
+
+### Health Risk Assessment of Agricultural Environment (Sinotech, 2017–2019)
+Led a multidisciplinary $550K R&D project to quantify environmental and health risks in agricultural areas near industrial zones, providing ESG-driven recommendations to 9 institutions.
+
+- Designed a three-year quantitative sampling plan and experimental framework, collecting over **10,000** in-situ samples and real-time IoT sensor data.
+- Applied **Monte Carlo simulations** on real-time and historical datasets to perform probabilistic health risk assessments based on hazard ratios of **8 heavy metals**.
+- Collaborated with National Taiwan University Institute of Public Health and 9 institutions to validate models and deliver actionable insights.
+
+**Business Impact:** Achieved **30% profit margin** on the project while enabling data-driven ESG consultations and policy recommendations. This experience demonstrates strong expertise in **simulation modeling, uncertainty quantification, and risk analysis**.
+![Methodology](/assets/img/Health_Risk_Assessment.png)
+
+
