@@ -24,7 +24,7 @@ Results-driven Analytics Engineer with 8+ years of experience in Monte Carlo sim
 - Developed machine learning models (Decision Tree, Random Forest) using Python, TensorFlow, and geospatial libraries on remote sensing and environmental data, reducing RMSE from 0.65 to 0.10.
 - Collaborated with two R&D teams to deploy ML models and data pipelines that optimized supply chain logistics and enabled data-driven stakeholder decisions.
 
-### Project Manager @ Sinotech Environmental Technology & Taiwan Water Resources Bureau(_Febuary 2017 - July 2021_)
+### Project Manager @ Sinotech Environmental Technology(_Febuary 2017 - December 2019_)
 - Oversaw a $550K R&D project with a 30% profit margin, delivering ESG data-driven consultations to 9 institutions.
 - Conducted clustering analysis on 10,000+ energy consumption records and 25 socioeconomic factors to uncover distinct behavioral categories.
 - Designed decision trees from 1,000+ consumer questionnaires to identify energy consumption behaviors and validate assumptions.
@@ -57,7 +57,7 @@ Developed and validated machine learning models to optimize fertilizer recommend
 
 
 
-### Data-Driven Estimation of Energy Consumption Behaviors and Customer Segmentation (Taiwan Water Resources Bureau, 2019–2021)
+### Data-Driven Estimation of Energy Consumption Behaviors and Customer Segmentation (Chinese Culture University, 2020)
 Conducted advanced clustering and decision tree analysis to support energy-saving initiatives and policy design.
 
 - Utilized **ArcGIS and Python** to create geometric layers visualizing energy consumption patterns and identify target sampling areas.
