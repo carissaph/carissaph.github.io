@@ -11,7 +11,7 @@ Results-driven Analytics Engineer with 8+ years of experience in Monte Carlo sim
 - B.S., Agronomy, Minor in English Literature | National Chung Hsing University (_June 2010_)
 
 ## Work Experience
-### Analytics Engineer @ UScellular (_acquired by T-Mobile, January 2023 – August 2025_)
+### Associate Analytics Engineer & Rotational Engineer @ UScellular (_acquired by T-Mobile, January 2023 – August 2025_)
 - During UScellular’s acquisition by T-Mobile, conducted densification analysis with population data and Voronoi diagrams, identifying colocation opportunities with T-Mobile sites and matching 25% of UScellular sites for strategic expansion. 
 - Analyzed root causes of backhaul inefficiencies across 7,500+ towers using graph techniques; built a graph database constructure to prioritize customer-impacting issues and enhance network performance.
 - Developed a concentric circle approximation method using geohashes and Voronoi diagrams to quantify coverage capacity for 4,000+ sites, supporting strategic network expansion decisions.
