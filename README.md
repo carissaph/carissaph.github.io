@@ -12,13 +12,13 @@ Results-driven Analytics Engineer with 8+ years of experience in Monte Carlo sim
 
 ## Work Experience
 ### Analytics Engineer @ UScellular (_acquired by T-Mobile, January 2023 – August 2025_)
-- Built a graph database in Python using API data to map backhaul inefficiencies across 7,500+ towers, enabling prioritized resolution of customer-impacting network issues.
-- Developed a concentric circle approximation method to quantify geohashes around cell towers, delivering coverage capacity insights for 4,000+ UScellular sites.
-- Performed densification analysis combining population data and Voronoi diagrams to identify colocation opportunities with T-Mobile sites, matching 25% of UScellular sites for strategic network expansion.
-- Conducted T-tests and binomial tests on 4.5 million customer records to evaluate 3G sunset trials and recommend targeted network performance improvements.
-- Spearheaded development of a Tableau handset anomaly detection dashboard used by two cross-functional teams, reducing troubleshooting time by 30%.
-- Migrated 50+ Linux shell scripts to Talend, streamlining ETL processes and achieving 25% automation script backup on a centralized platform.
-- Extracted and analyzed data from OracleDB, PostgreSQL, and Spark using SQL and Python to deliver monthly executive performance reports.
+- During UScellular’s acquisition by T-Mobile, conducted densification analysis with population data and Voronoi diagrams, identifying colocation opportunities with T-Mobile sites and matching 25% of UScellular sites for strategic expansion. 
+- Analyzed root causes of backhaul inefficiencies across 7,500+ towers using graph techniques; built a graph database constructure to prioritize customer-impacting issues and enhance network performance.
+- Developed a concentric circle approximation method using geohashes and Voronoi diagrams to quantify coverage capacity for 4,000+ sites, supporting strategic network expansion decisions.
+- Performed T-tests and binomial tests on 4.5 million customer records to evaluate 3G sunset trials and recommend network performance improvements.
+- Spearheaded a Tableau dashboard to detect anomalies in handset KPIs, enabling two cross-functional teams to isolate performance issues.
+- Maintained the monthly executive performance report and slides for leadership review, extracting and analyzing data from OracleDB, PostgreSQL, and Spark using SQL and Python.
+
 
 ### Data Scientist Intern @ Bayer (_May 2022 - August 2022_)
 - Developed machine learning models (Decision Tree, Random Forest) using Python, TensorFlow, and geospatial libraries on remote sensing and environmental data, reducing RMSE from 0.65 to 0.10.
@@ -32,13 +32,13 @@ Results-driven Analytics Engineer with 8+ years of experience in Monte Carlo sim
 
 ## Projects
 
-### Network Performance Optimization & Strategic Site Colocation (_UScellular, 2024–2025_)
+### Network Performance Optimization & Strategic Site Colocation (_UScellular, 2023–2025_)
 Developed advanced geospatial and graph analytics solutions to optimize a nationwide telecom network, directly supporting strategic expansion and reliability improvements during a major acquisition.
 
 - Created a **concentric circle approximation method** with geohashes to quantify coverage capacity for 4,000+ sites.
 - Utilized **Voronoi diagrams** and population data to identify colocation opportunities with T-Mobile, successfully matching **25% of UScellular sites** for cost-efficient network densification.
 - Built a **graph database** in Python to analyze backhaul inefficiencies across 7,500+ towers, enabling prioritized resolution of customer-impacting issues.
-- Spearheaded a **Tableau anomaly detection dashboard** used by two cross-functional teams, reducing troubleshooting time by **30%**.
+- Spearheaded a **Tableau anomaly detection dashboard** used by two cross-functional teams to isolate performance issues.
 
 **Business Impact:** Delivered quantifiable operational efficiency gains and data-driven insights for executive decision-making on network strategy. These geospatial modeling and large-scale analytics skills are highly transferable to tower optimization and reliability metrics.
 ![Methdology](assets/img/Network_Performance.png)
